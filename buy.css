@@ -1,0 +1,15 @@
+#buy_content {
+    margin-top: 10vh;
+}
+
+.product-grid{
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.grid-container{
+    display: flex;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
